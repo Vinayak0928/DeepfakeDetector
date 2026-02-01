@@ -34,7 +34,7 @@ A state-of-the-art deepfake detection system built with PyTorch and EfficientNet
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 3. **Download a pre-trained model** (or train your own):
